@@ -11,7 +11,7 @@ def translate_text(text, source_language_code, target_language_code):
         SourceLanguageCode=source_language_code, 
         TargetLanguageCode=target_language_code
     )
-    # print(response) 
+    print(response) 
     print(json.dumps(response, ensure_ascii=False, indent=4)) # Print formatted output
 
 def main():
