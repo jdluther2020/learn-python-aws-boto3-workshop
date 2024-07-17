@@ -13,7 +13,7 @@ def translate_text():
         SourceLanguageCode='en',
         TargetLanguageCode='fr'
     )
-    # print(response) # this code is inside the function and will print the contents of the variable 'response'
+    print(response) # this code is inside the function and will print the contents of the variable 'response'
     print(json.dumps(response, ensure_ascii=False, indent=4)) # Print formatted output
 
 def main():
