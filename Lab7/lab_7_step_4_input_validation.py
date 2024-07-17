@@ -1,7 +1,7 @@
-# lab_7_step_5_input_validation.py 
+# lab_7_step_4_input_validation.py 
 # Input validation with If-Else-Elif statements
 # Run it as:
-# python lab_7_step_5_input_validation.py --file translate_input.json
+# python lab_7_step_4_input_validation.py --file translate_input.json
 
 # Standard Imports
 import argparse
