@@ -17,7 +17,7 @@
         },
         {       
         "Text":"Who is using cloud computing?",
-        "SourceLanguageCode":"fr",
+        "SourceLanguageCode":"en",
         "TargetLanguageCode":"fr"
         },
         {       
@@ -32,8 +32,9 @@
         },        
         {       
         "Text":"And video game makers are using the cloud to deliver online games to millions of players around the world.",
-        "SourceLanguageCode":"enn",
+        "SourceLanguageCode":"en",
         "TargetLanguageCode":"fr"
         }
     ] 
 } 
+
